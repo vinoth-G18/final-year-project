@@ -85,7 +85,7 @@ Prediction + Biological Analysis
 ```bash
 git clone https://github.com/your-username/SuperEnhancer-AI.git
 cd SuperEnhancer-AI
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ▶️ Run Web Application
 py -3.10 -m streamlit run webapp/app.py
